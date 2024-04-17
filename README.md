@@ -15,7 +15,7 @@ Answer:
 Lets take the example where graph $A$ has nodes $(a, b, c, d)$ and graph $B$ has nodes $(1, 2, 3, 4)$.\
 graph $A$ has edges $(a,b), (b,c), (c,d)$ and graph $B$ has edges $(1, 2), (2, 3), (3, 4)$\ 
 
-If we take a bijection $f: V_1 \rightarrow V_2$, where $f(a) = 1, f(b) = 2, f(c) = 3, f(d) = 4.
+If we take a bijection $f: V_1 \rightarrow V_2$, where $f(a) = 1, f(b) = 2, f(c) = 3, f(d) = 4$.\
 We can see that the graphs are isomorphic because where there is an edge $(a, b)$, is an edge $f(a), f(b)$.\
 For edge $(b, c)$ there is the edge $f(b), f(c)$ and this proves to be true trough the whole graph.\
 This proves by definition that the graphs $A$ and $B$ are isomorphic by definition even though they are not completely connected themselves. 
